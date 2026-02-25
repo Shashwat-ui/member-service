@@ -40,7 +40,7 @@ export function NeoModal({
       aria-labelledby={titleId}
     >
       <div
-        className="absolute inset-0 bg-black/35 backdrop-blur-[6px]"
+        className="absolute inset-0 bg-black/35 backdrop-blur-[2px]"
         onMouseDown={onClose}
       />
 
